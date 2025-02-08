@@ -1,2 +1,2 @@
-# sample comment *.txt
+# sample comment *.txt /
 *.xlsx
